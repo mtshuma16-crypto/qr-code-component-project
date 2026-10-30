@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/mtshuma16-crypto/qr-code-component-project)
+- Live Site URL:( https://mtshuma16-crypto.github.io/qr-code-component-project/)
 
 ## My process
 
@@ -56,7 +56,7 @@ I am yet to continue learning HTML,CSS and Js as a beginner, for now i want to f
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Minenhle Tshuma](https://github.com/mtshuma16-crypto/qr-code-component-project)
 - Frontend Mentor - [@mtshuma16-crypto](https://www.frontendmentor.io/profile/mtshuma16-crypto)
 
 
